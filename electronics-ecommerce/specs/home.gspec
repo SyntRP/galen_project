@@ -1,0 +1,187 @@
+@objects
+    logo                          a[data-t='header-primary-logo']
+    Search-Box                    form[name='frmSearch']
+    Navbar                        div[class='bottom-fluid-container ']
+    Banner                        div[id='widget-37a03ae6-37e2-4249-9203-03b3381972b6']
+    Today-Top                     div[class='shop-todays-popular-picks']
+    Today-Top-1                   a[data-content='Playstation - 5 Console  God of War Ragnark Bundle']
+    New-Arrivals                  div[role='tablist']
+    New-Arrivals-Row              div[id='Recommendations']
+    New-Arrivals-Item             a[href='https://www.bestbuy.com/site/playstation-dualsense-edge-wireless-controller/6532912.p?skuId=6532912']
+    Tv-Offers                     a[href='/site/tvs/smart-tvs/pcmcat220700050011.c?id=pcmcat220700050011']
+    Trending-Deals                div[class='CarouselV2']
+    Trending-Deals-Item           li[data-order='2']
+    Creative-Indoor               div[data-device-class='1']
+    Icon-Navigation               a[href='/support']
+    Footer                        footer[id='footer']
+
+= Home Page =
+    @on mobile
+        logo:
+            width 68px 
+            height 40px
+    @on tablet
+        logo:
+            width 130px 
+            height 55px
+    @on desktop
+        logo:
+            width 68px 
+            height 40px
+    @on mobile
+        Navbar:
+            width 130px 
+            height 55px
+    @on tablet
+        Navbar:
+            width 130px 
+            height 55px
+    @on desktop
+        Navbar:
+            width 992px 
+            height 44px
+    @on mobile
+        Banner:
+            width 130px 
+            height 55px
+    @on tablet
+        Banner:
+            width 130px 
+            height 55px
+    @on desktop
+        Banner:
+            width 476px 
+            height 476px
+    @on mobile
+        Today-Top:
+            width 130px 
+            height 55px
+    @on tablet
+        Today-Top:
+            width 130px 
+            height 55px
+    @on desktop
+        Today-Top:
+            width 474px 
+            height 184px
+    @on mobile
+        Today-Top-1:
+            width 130px 
+            height 55px
+    @on tablet
+        Today-Top-1:
+            width 130px 
+            height 55px
+    @on desktop
+        Today-Top-1:
+            width 97px 
+            height 116px
+    @on mobile
+        New-Arrivals:
+            width 130px 
+            height 55px
+    @on tablet
+        New-Arrivals:
+            width 130px 
+            height 55px
+    @on desktop
+        New-Arrivals:
+            width 978px 
+            height 40px
+    @on mobile
+        New-Arrivals-Row:
+            width 130px 
+            height 55px
+    @on tablet
+        New-Arrivals-Row:
+            width 978px 
+            height 40px
+    @on desktop
+        New-Arrivals-Row:
+            width 978px 
+            height 40px
+    @on mobile
+        New-Arrivals-Item:
+            width 130px 
+            height 55px
+    @on tablet
+        New-Arrivals-Item:
+            width 130px 
+            height 55px
+    @on desktop
+        New-Arrivals-Item:
+            width 130px 
+            height 55px
+    @on mobile
+        Tv-Offers:
+            width 130px 
+            height 55px
+    @on tablet
+        Tv-Offers:
+            width 130px 
+            height 55px
+    @on desktop
+        Tv-Offers:
+            width 304px 
+            height 304px
+    @on mobile
+        Trending-Deals:
+            width 130px 
+            height 55px
+    @on tablet
+        Trending-Deals:
+            width 130px 
+            height 55px
+    @on desktop
+        Trending-Deals:
+            width 930px 
+            height 43px
+    @on mobile
+        Trending-Deals-Item:
+            width 130px 
+            height 55px
+    @on tablet
+        Trending-Deals-Item:
+            width 130px 
+            height 55px
+    @on desktop
+        Trending-Deals-Item:
+            width 930px 
+            height 43px
+    @on mobile
+        Creative-Indoor:
+            width 130px 
+            height 55px
+    @on tablet
+        Creative-Indoor:
+            width 130px 
+            height 55px
+    @on desktop
+        Creative-Indoor:
+            width 930px 
+            height 43px
+    @on mobile
+        Icon-Navigation:
+            width 130px 
+            height 55px
+    @on tablet
+        Icon-Navigation:
+            width 130px 
+            height 55px
+    @on desktop
+        Icon-Navigation:
+            width 930px 
+            height 43px
+    @on mobile
+        Footer:
+            width 130px 
+            height 55px
+    @on tablet
+        Footer:
+            width 130px 
+            height 55px
+    @on desktop
+        Footer:
+            width 991px 
+            height 883px
+

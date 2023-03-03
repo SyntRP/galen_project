@@ -1,0 +1,238 @@
+@objects
+    logo                          img[data-qa='hdr-nav-bannerlogo']
+    Search-Box                    div[class='search-container']
+    Navbar                        div[class='menu-nav__wrapper']
+    Banner                        div[class='responsivegrid aem-GridColumn aem-GridColumn--default--12']
+    WhatsFresh                    div[class='remove-rl-padding col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12']
+    BestFresh                     div[class='column-control-wrapper full-bleed-container layout-padding']
+    PopularCategory               div[class='c-shop-by-category__view c-sbc__main-wrapper c-shop-by-category__view--circle']
+    PopularItem                   a[id='sbc_custom_3676']
+    Coupens                       div[id='coupons-carousel']
+    CoupenItem                    div[aria-label='Coupon - $14.99 each - ']
+    Featured                      div[class='master-product-carousel section static-carousel']
+    FeaturedItem                  a[id='217pg960523401Img']
+    SeasonInspire                 a[onclick='AB.DATALAYER.setBannerUnitTracking(this)']
+    SheetBan                      div[class='meals-carousel-container slick-initialized slick-slider']
+    SSheetBanItem                 a[href='/meal-plans-recipes/shop/20612']
+    QuickEasy                    div[class='row abs-no-gutters']
+    Footer                        footer[class='body-wrapper-footer ']
+    Question                      button[aria-label='Click this button to open the chat window']
+    CustomCookie                  div[class='ot-floating-button__front custom-persistent-icon']
+
+= Home Page =
+    @on mobile
+        logo:
+            width 130px 
+            height 55px
+    @on tablet
+        logo:
+            width 130px 
+            height 55px
+    @on desktop
+        logo:
+            width 128px 
+            height 24px
+    @on mobile
+        Navbar:
+            width 130px 
+            height 55px
+    @on tablet
+        Navbar:
+            width 130px 
+            height 55px
+    @on desktop
+        Navbar:
+            width 991px 
+            height 72px
+    @on mobile
+        Banner:
+            width 130px 
+            height 55px
+    @on tablet
+        Banner:
+            width 130px 
+            height 55px
+    @on desktop
+        Banner:
+            width 991px 
+            height 270px
+    @on mobile
+        WhatsFresh:
+            width 130px 
+            height 55px
+    @on tablet
+        WhatsFresh:
+            width 959px 
+            height 0px
+    @on desktop
+        WhatsFresh:
+            width 959px 
+            height 0px
+    @on mobile
+        BestFresh:
+            width 130px 
+            height 55px
+    @on tablet
+        BestFresh:
+            width 130px 
+            height 55px
+    @on desktop
+        BestFresh:
+            width 991px 
+            height 0px
+    @on mobile
+        PopularCategory:
+            width 130px 
+            height 55px
+    @on tablet
+        PopularCategory:
+            width 130px 
+            height 55px
+    @on desktop
+        PopularCategory:
+            width 959px 
+            height 40px
+    @on mobile
+       PopularItem:
+            width 130px 
+            height 55px
+    @on tablet
+        PopularItem:
+            width 130px 
+            height 55px
+    @on desktop
+        PopularItem:
+            width 130px 
+            height 55px
+    @on mobile
+        Coupens:
+            width 130px 
+            height 55px
+    @on tablet
+        Coupens:
+            width 130px 
+            height 55px
+    @on desktop
+        Coupens:
+            width 959px 
+            height 302px
+    @on mobile
+        CoupenItem:
+            width 130px 
+            height 55px
+    @on tablet
+        CoupenItem:
+            width 130px 
+            height 55px
+    @on desktop
+        CoupenItem:
+            width 304px 
+            height 232px
+    @on mobile
+        Featured:
+            width 130px 
+            height 55px
+    @on tablet
+        Featured:
+            width 130px 
+            height 55px
+    @on desktop
+        Featured:
+            width  946px 
+            height 455px
+    @on mobile
+        FeaturedItem:
+            width 130px 
+            height 55px
+    @on tablet
+        FeaturedItem:
+            width 130px 
+            height 55px
+    @on desktop
+        FeaturedItem:
+            width 930px 
+            height 43px
+    @on mobile
+        SeasonInspire:
+            width 130px 
+            height 55px
+    @on tablet
+        SeasonInspire:
+            width 130px 
+            height 55px
+    @on desktop
+        SeasonInspire:
+            width 930px 
+            height 43px
+    @on mobile
+        SheetBan:
+            width 130px 
+            height 55px
+    @on tablet
+        SheetBan:
+            width 130px 
+            height 55px
+    @on desktop
+        SheetBan:
+            width 959px 
+            height 300px
+    @on mobile
+        SSheetBanItem:
+            width 130px 
+            height 55px
+    @on tablet
+        SSheetBanItem:
+            width 130px 
+            height 55px
+    @on desktop
+        SSheetBanItem:
+            width 930px 
+            height 299px
+    @on mobile
+        QuickEasy:
+            width 130px 
+            height 55px
+    @on tablet
+        QuickEasy:
+            width 130px 
+            height 55px
+    @on desktop
+        QuickEasy:
+            width 959px 
+            height 0px
+    @on mobile
+        Footer:
+            width 130px 
+            height 55px
+    @on tablet
+        Footer:
+            width 130px 
+            height 55px
+    @on desktop
+        Footer:
+            width 991px 
+            height 580px
+    @on mobile
+        Question:
+            width 130px 
+            height 55px
+    @on tablet
+        Question:
+            width 130px 
+            height 55px
+    @on desktop
+        Question:
+            width 100px 
+            height 100px
+    @on mobile
+        CustomCookie:
+            width 130px 
+            height 55px
+    @on tablet
+        CustomCookie:
+            width 130px 
+            height 55px
+    @on desktop
+        CustomCookie:
+            width 992px 
+            height 590px

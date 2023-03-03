@@ -1,0 +1,134 @@
+@objects
+    logo                          a[class='mmtLogo makeFlex']
+    Search-Box                    div[data-cy='flightSW']
+    Search-inside-box             div[class='fsw_inner returnPersuasion']
+    Search-box-bottom             div[class='makeFlex hrtlCenter appendBottom20 flightFare']
+    Search-button                 p[data-cy='submit']
+    Navbar                        nav[class='makeFlex font12']
+    Offer-Listings                div[id='Offers_Listing']
+    Offer1                        div[data-cy='suUrl-0']
+    HandPicked                    div[class='hpClcn appendBottom20']
+    Footer                        footer[class='appendTop30']
+
+= Home Page =
+    @on mobile
+        logo:
+            width 130px 
+            height 55px
+    @on tablet
+        logo:
+            width 130px 
+            height 55px
+    @on desktop
+        logo:
+            width 130px 
+            height 55px
+    @on mobile
+        Search-Box:
+            width 130px 
+            height 55px
+    @on tablet
+        Search-Box:
+            width 130px 
+            height 55px
+    @on desktop
+        Search-Box:
+            width 130px 
+            height 55px
+    @on mobile
+        Search-inside-box:
+            width 130px 
+            height 55px
+    @on tablet
+        Search-inside-box:
+            width 130px 
+            height 55px
+    @on desktop
+        Search-inside-box:
+            width 130px 
+            height 55px
+    @on mobile
+        Search-box-bottom:
+            width 130px 
+            height 55px
+    @on tablet
+        Search-box-bottom:
+            width 130px 
+            height 55px
+    @on desktop
+        Search-box-bottom:
+            width 130px 
+            height 55px
+    @on mobile
+        Search-button:
+            width 130px 
+            height 55px
+    @on tablet
+        Search-button:
+            width 130px 
+            height 55px
+    @on desktop
+        Search-button:
+            width 130px 
+            height 55px
+    @on mobile
+        Navbar:
+            width 130px 
+            height 55px
+    @on tablet
+        Navbar:
+            width 130px 
+            height 55px
+    @on desktop
+        Navbar:
+            width 130px 
+            height 55px
+    @on mobile
+        Offer-Listings:
+            width 130px 
+            height 55px
+    @on tablet
+        Offer-Listings:
+            width 130px 
+            height 55px
+    @on desktop
+        Offer-Listings:
+            width 130px 
+            height 55px
+    @on mobile
+        Offer1:
+            width 130px 
+            height 55px
+    @on tablet
+        Offer1:
+            width 130px 
+            height 55px
+    @on desktop
+        Offer1:
+            width 130px 
+            height 55px
+    @on mobile
+        HandPicked:
+            width 130px 
+            height 55px
+    @on tablet
+        HandPicked:
+            width 130px 
+            height 55px
+    @on desktop
+        HandPicked:
+            width 992px 
+            height 590px
+    @on mobile
+        Footer:
+            width 130px 
+            height 55px
+    @on tablet
+        Footer:
+            width 130px 
+            height 55px
+    @on desktop
+        Footer:
+            width 992px 
+            height 590px
+

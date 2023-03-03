@@ -1,0 +1,220 @@
+@objects
+    logo                          img[src='https://www.caratlane.us/media/logo/stores/1/cl_logo.png']
+    Search-Box                    input[name='q']
+    Navbar                        div[class='header content']
+    Banner                        div[class='homeslider-container']
+    SpotLight                     div[data-pb-style='OYVNBSW']
+    SpotLight-col                 div[data-pb-style='QY2OKQB']
+    Collections                   div[data-pb-style='QX7SHQU']
+    CollectionsItem               img[src='https://www.caratlane.us/media/wysiwyg/Desktop_Blaze_1_.jpg']
+    viewAll                       div[data-pb-style='EYNXT49']
+    Bottom-Content-banner         div[data-pb-style='SQ1A41Q']
+    knowMore                      div[data-pb-style='WEIH76I']
+    gifts                         div[data-pb-style='A7WPNNS']
+    trending                      div[class='slick-track']
+    video                         div[data-pb-style='XSQ9LWW']
+    instagramSection              div[class='instagram-section']
+    contact                       div[data-pb-style='R1G113K']
+    Footer                        footer[class='page-footer']
+    Help                          div[class='help_icon']
+    iframe                        iframe[title='Customer reviews powered by Trustpilot']
+
+= Home Page =
+    @on mobile
+        logo:
+            width 130px 
+            height 55px
+    @on tablet
+        logo:
+            width 130px 
+            height 55px
+    @on desktop
+        logo:
+            width 130px 
+            height 55px
+    @on mobile
+        Navbar:
+            width 130px 
+            height 55px
+    @on tablet
+        Navbar:
+            width 130px 
+            height 55px
+    @on desktop
+        Navbar:
+            width 130px 
+            height 55px
+    @on mobile
+        Banner:
+            width 130px 
+            height 55px
+    @on tablet
+        Banner:
+            width 130px 
+            height 55px
+    @on desktop
+        Banner:
+            width 130px 
+            height 55px
+    @on mobile
+        SpotLight:
+            width 130px 
+            height 55px
+    @on tablet
+        SpotLight:
+            width 130px 
+            height 55px
+    @on desktop
+        SpotLight:
+            width 130px 
+            height 55px
+    @on mobile
+        SpotLight-col:
+            width 130px 
+            height 55px
+    @on tablet
+        SpotLight-col:
+            width 130px 
+            height 55px
+    @on desktop
+        SpotLight-col:
+            width 130px 
+            height 55px
+    @on mobile
+        Collections:
+            width 130px 
+            height 55px
+    @on tablet
+        Collections:
+            width 130px 
+            height 55px
+    @on desktop
+        Collections:
+            width 130px 
+            height 55px
+    @on mobile
+       CollectionsItem:
+            width 130px 
+            height 55px
+    @on tablet
+        CollectionsItem:
+            width 130px 
+            height 55px
+    @on desktop
+        CollectionsItem:
+            width 130px 
+            height 55px
+    @on mobile
+        viewAll:
+            width 130px 
+            height 55px
+    @on tablet
+        viewAll:
+            width 130px 
+            height 55px
+    @on desktop
+        viewAll:
+            width 130px 
+            height 55px
+    @on mobile
+        Bottom-Content-banner:
+            width 130px 
+            height 55px
+    @on tablet
+        Bottom-Content-banner:
+            width 130px 
+            height 55px
+    @on desktop
+        Bottom-Content-banner:
+            width 930px 
+            height 43px
+    @on mobile
+        knowMore:
+            width 130px 
+            height 55px
+    @on tablet
+        knowMore:
+            width 130px 
+            height 55px
+    @on desktop
+        knowMore:
+            width 930px 
+            height 43px
+    @on mobile
+        gifts:
+            width 130px 
+            height 55px
+    @on tablet
+        gifts:
+            width 130px 
+            height 55px
+    @on desktop
+        gifts:
+            width 930px 
+            height 43px
+    @on mobile
+        trending:
+            width 130px 
+            height 55px
+    @on tablet
+        trending:
+            width 130px 
+            height 55px
+    @on desktop
+        trending:
+            width 930px 
+            height 43px
+    @on mobile
+        video:
+            width 130px 
+            height 55px
+    @on tablet
+        video:
+            width 130px 
+            height 55px
+    @on desktop
+        video:
+            width 930px 
+            height 43px
+    @on mobile
+        instagramSection:
+            width 130px 
+            height 55px
+    @on tablet
+        instagramSection:
+            width 130px 
+            height 55px
+    @on desktop
+        instagramSection:
+            width 387px 
+            height 40px
+    @on mobile
+        Footer:
+            width 130px 
+            height 55px
+    @on tablet
+        Footer:
+            width 130px 
+            height 55px
+    @on desktop
+        Footer:
+            width 992px 
+            height 590px
+    @on mobile
+        Help:
+            width 130px 
+            height 55px
+    @on tablet
+        Help:
+            width 130px 
+            height 55px
+    @on desktop
+        Help:
+            width 15px 
+            height 10px
+    @on desktop
+        iframe:
+            component frame iframe.gspec
+    
+
+      

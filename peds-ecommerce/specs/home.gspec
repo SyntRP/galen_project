@@ -1,0 +1,224 @@
+@objects
+    logo                          div[id='logo']
+    Search-Box                    form[class='searchform']
+    Navbar                        div[id='wide-nav']
+    Banner                        div[id='slider-915503466']
+    ShopCategories                section[id='section_1499770510']
+    ShopItem                      div[id='image_1893709475']
+    offer                         div[id='row-1435983195']
+    discount                      div[id='section_650924101']
+    catShop                       div[id='section_414483791']
+    PopularCategories             section[id='section_1319296884']
+    NewArrivals                   section[id='section_1697542475']
+    NewPost                       section[id='section_1078071531']
+    PetService                     div[id='row-493654067']
+    content                       div[id='col-1994064887']
+    Service                       div[id='image_2088002617']
+    Footer                        footer[id='footer']
+
+= Home Page =
+    @on mobile
+        logo:
+            width 130px 
+            height 55px
+    @on tablet
+        logo:
+            width 130px 
+            height 55px
+    @on desktop
+        logo:
+            width 130px 
+            height 55px
+    @on mobile
+        Search-Box:
+            width 130px 
+            height 55px
+    @on tablet
+        Search-Box:
+            width 130px 
+            height 55px
+    @on desktop
+        Search-Box:
+            width 130px 
+            height 55px
+    @on mobile
+        Navbar:
+            width 130px 
+            height 55px
+    @on tablet
+        Navbar:
+            width 130px 
+            height 55px
+    @on desktop
+        Navbar:
+            width 130px 
+            height 55px
+    @on mobile
+        Banner:
+            width 130px 
+            height 55px
+    @on tablet
+        Banner:
+            width 130px 
+            height 55px
+    @on desktop
+        Banner:
+            width 130px 
+            height 55px
+    @on mobile
+        ShopCategories:
+            width 130px 
+            height 55px
+    @on tablet
+        ShopCategories:
+            width 130px 
+            height 55px
+    @on desktop
+        ShopCategories:
+            width 130px 
+            height 55px
+    @on mobile
+        ShopItem:
+            width 130px 
+            height 55px
+    @on tablet
+        ShopItem:
+            width 130px 
+            height 55px
+    @on desktop
+        ShopItem:
+            width 130px 
+            height 55px
+    @on mobile
+        offer:
+            width 130px 
+            height 55px
+    @on tablet
+        offer:
+            width 130px 
+            height 55px
+    @on desktop
+        offer:
+            width 130px 
+            height 55px
+#    @on mobile
+#       Products-List:
+#            width 130px 
+#            height 55px
+#    @on tablet
+#        Products-List:
+#            width 130px 
+#            height 55px
+#    @on desktop
+#        Products-List:
+#            width 130px 
+#            height 55px
+    @on mobile
+        discount:
+            width 130px 
+            height 55px
+    @on tablet
+        discount:
+            width 130px 
+            height 55px
+    @on desktop
+        discount:
+            width 130px 
+            height 55px
+    @on mobile
+        catShop:
+            width 130px 
+            height 55px
+    @on tablet
+        catShop:
+            width 130px 
+            height 55px
+    @on desktop
+        catShop:
+            width 130px 
+            height 55px
+    @on mobile
+        PopularCategories:
+            width 130px 
+            height 55px
+    @on tablet
+        PopularCategories:
+            width 130px 
+            height 55px
+    @on desktop
+        PopularCategories:
+            width 930px 
+            height 43px
+    @on mobile
+        NewArrivals:
+            width 130px 
+            height 55px
+    @on tablet
+        NewArrivals:
+            width 130px 
+            height 55px
+    @on desktop
+        NewArrivals:
+            width 930px 
+            height 43px
+    @on mobile
+        NewPost:
+            width 130px 
+            height 55px
+    @on tablet
+        NewPost:
+            width 130px 
+            height 55px
+    @on desktop
+        NewPost:
+            width 930px 
+            height 43px
+    @on mobile
+        PetService:
+            width 130px 
+            height 55px
+    @on tablet
+        PetService:
+            width 130px 
+            height 55px
+    @on desktop
+        PetService:
+            width 930px 
+            height 43px
+    @on mobile
+        content:
+            width 130px 
+            height 55px
+    @on tablet
+        content:
+            width 130px 
+            height 55px
+    @on desktop
+        content:
+            width 930px 
+            height 43px
+    @on mobile
+        Service:
+            width 130px 
+            height 55px
+    @on tablet
+        Service:
+            width 130px 
+            height 55px
+    @on desktop
+        Service:
+            width 387px 
+            height 40px
+    @on mobile
+        Footer:
+            width 130px 
+            height 55px
+    @on tablet
+        Footer:
+            width 130px 
+            height 55px
+    @on desktop
+        Footer:
+            width 992px 
+            height 590px
+

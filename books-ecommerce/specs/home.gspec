@@ -1,0 +1,236 @@
+@objects
+    logo                          svg[alt='logo']
+    Search-Box                    form[class='rhf-global-search form-inline my-2 my-lg-0 col-md-8']
+    Navbar                        div[id='navbarSupportedContent']
+    Banner                        div[id='hp-QuotetopHero']
+    BooksType                     section[class='home-responsive-icons']
+    BooksTypeIcon                 a[href='/b/signed-books-at-bncom/_/N-rp2']
+    NewThisMonth                  div[id='book-carousel-1']
+    NewThisMonthBook              img[data-bottom-align='resolve_5']
+    BarnesAndNobel                div[id='thePerfectBook']
+    TrendingBooks                 div[id='book-carousel-2']
+    50OffBooks                   div[id='book-carousel-3']
+    NewYoungReader                div[id='book-carousel-4']
+    Momins                        img[alt='Welcome to the Wonderful World of MOOMIN®, Explore Now ']
+    FooterIconsGroup              div[class='ft-iconsGroup']
+    FooterIcon                    a[href='https://www.barnesandnoble.com/blog/category/reads/podcast/']
+    Footer                        footer[class='ft-normal']
+    Footer-FindItFast             ul[class='social-icons']
+
+= Home Page =
+    @on mobile
+        logo:
+            width 130px 
+            height 55px
+    @on tablet
+        logo:
+            width 130px 
+            height 55px
+    @on desktop
+        logo:
+            width 130px 
+            height 55px
+    @on mobile
+        Search-Box:
+            width 130px 
+            height 55px
+    @on tablet
+        Search-Box:
+            width 130px 
+            height 55px
+    @on desktop
+        Search-Box:
+            width 130px 
+            height 55px
+    @on mobile
+        Navbar:
+            width 130px 
+            height 55px
+    @on tablet
+        Navbar:
+            width 130px 
+            height 55px
+    @on desktop
+        Navbar:
+            width 130px 
+            height 55px
+    @on mobile
+        Banner:
+            width 130px 
+            height 55px
+    @on tablet
+        Banner:
+            width 130px 
+            height 55px
+    @on desktop
+        Banner:
+            width 130px 
+            height 55px
+    @on mobile
+        BooksType:
+            width 130px 
+            height 55px
+    @on tablet
+        BooksType:
+            width 130px 
+            height 55px
+    @on desktop
+        BooksType:
+            width 130px 
+            height 55px
+    @on mobile
+        BooksTypeIcon:
+            width 130px 
+            height 55px
+    @on tablet
+        BooksTypeIcon:
+            width 130px 
+            height 55px
+    @on desktop
+        BooksTypeIcon:
+            width 130px 
+            height 55px
+    @on mobile
+        NewThisMonth:
+            width 130px 
+            height 55px
+    @on tablet
+        NewThisMonth:
+            width 130px 
+            height 55px
+    @on desktop
+        NewThisMonth:
+            width 130px 
+            height 55px
+#    @on mobile
+#       Products-List:
+#            width 130px 
+#            height 55px
+#    @on tablet
+#        Products-List:
+#            width 130px 
+#            height 55px
+#    @on desktop
+#        Products-List:
+#            width 130px 
+#            height 55px
+    @on mobile
+        NewThisMonthBook:
+            width 130px 
+            height 55px
+    @on tablet
+        NewThisMonthBook:
+            width 130px 
+            height 55px
+    @on desktop
+        NewThisMonthBook:
+            width 130px 
+            height 55px
+    @on mobile
+        BarnesAndNobel:
+            width 130px 
+            height 55px
+    @on tablet
+        BarnesAndNobel:
+            width 130px 
+            height 55px
+    @on desktop
+        BarnesAndNobel:
+            width 130px 
+            height 55px
+    @on mobile
+        TrendingBooks:
+            width 130px 
+            height 55px
+    @on tablet
+        TrendingBooks:
+            width 130px 
+            height 55px
+    @on desktop
+        TrendingBooks:
+            width 930px 
+            height 43px
+    @on mobile
+        50OffBooks:
+            width 130px 
+            height 55px
+    @on tablet
+        50OffBooks:
+            width 130px 
+            height 55px
+    @on desktop
+        50OffBooks:
+            width 930px 
+            height 43px
+    @on mobile
+        NewYoungReader:
+            width 130px 
+            height 55px
+    @on tablet
+        NewYoungReader:
+            width 130px 
+            height 55px
+    @on desktop
+        NewYoungReader:
+            width 930px 
+            height 43px
+    @on mobile
+        Momins:
+            width 130px 
+            height 55px
+    @on tablet
+        Momins:
+            width 130px 
+            height 55px
+    @on desktop
+        Momins:
+            width 930px 
+            height 43px
+    @on mobile
+        FooterIconsGroup:
+            width 130px 
+            height 55px
+    @on tablet
+        FooterIconsGroup:
+            width 130px 
+            height 55px
+    @on desktop
+        FooterIconsGroup:
+            width 930px 
+            height 43px
+    @on mobile
+        FooterIcon:
+            width 130px 
+            height 55px
+    @on tablet
+        FooterIcon:
+            width 130px 
+            height 55px
+    @on desktop
+        FooterIcon:
+            width 387px 
+            height 40px
+    @on mobile
+        Footer:
+            width 130px 
+            height 55px
+    @on tablet
+        Footer:
+            width 130px 
+            height 55px
+    @on desktop
+        Footer:
+            width 992px 
+            height 590px
+    @on mobile
+        Footer-FindItFast:
+            width 130px 
+            height 55px
+    @on tablet
+        Footer-FindItFast:
+            width 130px 
+            height 55px
+    @on desktop
+        Footer-FindItFast:
+            width 992px 
+            height 590px

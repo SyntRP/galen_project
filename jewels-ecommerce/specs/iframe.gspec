@@ -1,0 +1,16 @@
+@objects
+        reviews                       div[id='tp-widget-reviews']
+        
+= iframe =        
+    @on mobile
+        reviews:
+            width 130px 
+            height 55px
+    @on tablet
+        reviews:
+            width 130px 
+            height 55px
+    @on desktop
+        reviews:
+            width 930px 
+            height 43px

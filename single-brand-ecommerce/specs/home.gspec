@@ -1,0 +1,160 @@
+@objects
+    logo                          a[aria-label='Nike Homepage']
+    Search-Box                    button[aria-label='Open Search Modal']
+    Navbar                        header[data-pre='Header']
+    Banner                        div[id='2eb6a5e0-214a-47df-80eb-ede6fbbff0bd']
+    Featured                      div[id='3d3ecedc-6a85-4298-b35b-cc0badd6c484']
+    Featured-Item                 div[data-analytics-action-id='74deef3a-8994-4b91-b34f-2715c5bcf442']
+    Latest                        a[data-analytics-action-id='fa0c312b-cd21-40ea-9f6f-d9f299bf1ef3']
+    nikeCrica                     ul[aria-labelledby='c8687931-1ec4-4be2-b918-180b99437517']
+    nikeCrica-Item                img[src='https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_1.0/h_675,c_limit/8221a2a9-fe6d-4485-9e04-6a6ff1accee0/circa-20cm-basketball-shorts-V7ccKq.png']
+    Essentials                    div[id='8574da67-066c-436e-8cbb-d23371540c6a']
+    Bottom-menu                   div[id='7fbbefb4-d40d-4aa2-98b6-e573d1823744']
+    Footer                        footer[class='l-footer bg-black u-full-width nb2f6']
+
+= Home Page =
+    @on mobile
+        logo:
+            width 130px 
+            height 55px
+    @on tablet
+        logo:
+            width 130px 
+            height 55px
+    @on desktop
+        logo:
+            width 130px 
+            height 55px
+    @on mobile
+        Navbar:
+            width 130px 
+            height 55px
+    @on tablet
+        Navbar:
+            width 130px 
+            height 55px
+    @on desktop
+        Navbar:
+            width 130px 
+            height 55px
+    @on mobile
+        Banner:
+            width 130px 
+            height 55px
+    @on tablet
+        Banner:
+            width 130px 
+            height 55px
+    @on desktop
+        Banner:
+            width 130px 
+            height 55px
+    @on mobile
+        Featured:
+            width 130px 
+            height 55px
+    @on tablet
+        Featured:
+            width 130px 
+            height 55px
+    @on desktop
+        Featured:
+            width 130px 
+            height 55px
+    @on mobile
+        Featured-Item:
+            width 130px 
+            height 55px
+    @on tablet
+        Featured-Item:
+            width 130px 
+            height 55px
+    @on desktop
+        Featured-Item:
+            width 130px 
+            height 55px
+    @on mobile
+        Latest:
+            width 130px 
+            height 55px
+    @on tablet
+        Latest:
+            width 130px 
+            height 55px
+    @on desktop
+        Latest:
+            width 130px 
+            height 55px
+    @on mobile
+       nikeCrica:
+            width 130px 
+            height 55px
+    @on tablet
+        nikeCrica:
+            width 130px 
+            height 55px
+    @on desktop
+        nikeCrica:
+            width 130px 
+            height 55px
+    @on mobile
+        nikeCrica-Item:
+            width 130px 
+            height 55px
+    @on tablet
+        nikeCrica-Item:
+            width 130px 
+            height 55px
+    @on desktop
+        nikeCrica-Item:
+            width 130px 
+            height 55px
+    @on mobile
+        Products-Item2:
+            width 130px 
+            height 55px
+    @on tablet
+        Products-Item2:
+            width 130px 
+            height 55px
+    @on desktop
+        Products-Item2:
+            width 130px 
+            height 55px
+    @on mobile
+        Essentials:
+            width 130px 
+            height 55px
+    @on tablet
+        Essentials:
+            width 130px 
+            height 55px
+    @on desktop
+        Essentials:
+            width 130px 
+            height 55px
+    @on mobile
+        Bottom-menu:
+            width 130px 
+            height 55px
+    @on tablet
+        Bottom-menu:
+            width 130px 
+            height 55px
+    @on desktop
+        Bottom-menu:
+            width 930px 
+            height 43px
+    @on mobile
+        Footer:
+            width 130px 
+            height 55px
+    @on tablet
+        Footer:
+            width 130px 
+            height 55px
+    @on desktop
+        Footer:
+            width 992px 
+            height 590px
+

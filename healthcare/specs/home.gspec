@@ -1,0 +1,146 @@
+@objects
+    logo                          span[class='practo-logo']
+    Location-Search               div[class='c-omni__wrapper u-clearfix c-omni__wrapper--locality']
+    Doctor-Search                 input[data-qa-id='omni-searchbox-keyword']
+    Navbar                        div[class='navbar desktop en']
+    Banner                        div[class='content card']
+    Service                       div[class='u-margin--20__top content u-d__flex u-d__flex--jc-space-between']
+    Consult-Top                   a[href='/consult/direct/new_consultation?id=5&utm_source=consumer-home&utm_medium=web&utm_campaign=top_symptoms']
+    Booking                       div[class='s-carousel__cards']
+    Bottom-Content-banner         div[data-container='u-height--100 s-appbanner__content']
+    Footer                        footer[class='c-footer']
+    Know-More                     div[id='get-free-pcs-dweb-root']
+
+= Home Page =
+    @on mobile
+        logo:
+            width 130px 
+            height 55px
+    @on tablet
+        logo:
+            width 130px 
+            height 55px
+    @on desktop
+        logo:
+            width 130px 
+            height 55px
+    @on mobile
+        Location-Search:
+            width 130px 
+            height 55px
+    @on tablet
+        Location-Search:
+            width 130px 
+            height 55px
+    @on desktop
+        Location-Search:
+            width 130px 
+            height 55px
+    @on mobile
+        Doctor-Search:
+            width 130px 
+            height 55px
+    @on tablet
+        Doctor-Search:
+            width 130px 
+            height 55px
+    @on desktop
+        Doctor-Search:
+            width 130px 
+            height 55px
+    @on mobile
+        Navbar:
+            width 130px 
+            height 55px
+    @on tablet
+        Navbar:
+            width 130px 
+            height 55px
+    @on desktop
+        Navbar:
+            width 130px 
+            height 55px
+    @on mobile
+        Banner:
+            width 130px 
+            height 55px
+    @on tablet
+        Banner:
+            width 130px 
+            height 55px
+    @on desktop
+        Banner:
+            width 130px 
+            height 55px
+    @on mobile
+        Service:
+            width 130px 
+            height 55px
+    @on tablet
+        Service:
+            width 130px 
+            height 55px
+    @on desktop
+        Service:
+            width 130px 
+            height 55px
+    @on mobile
+        Consult-Top:
+            width 130px 
+            height 55px
+    @on tablet
+        Consult-Top:
+            width 130px 
+            height 55px
+    @on desktop
+        Consult-Top:
+            width 130px 
+            height 55px
+    @on mobile
+        Booking:
+            width 130px 
+            height 55px
+    @on tablet
+        Booking:
+            width 130px 
+            height 55px
+    @on desktop
+        Booking:
+            width 130px 
+            height 55px
+    @on mobile
+        Bottom-Content-banner:
+            width 130px 
+            height 55px
+    @on tablet
+        Bottom-Content-banner:
+            width 130px 
+            height 55px
+    @on desktop
+        Bottom-Content-banner:
+            width 930px 
+            height 43px
+    @on mobile
+        Footer:
+            width 130px 
+            height 55px
+    @on tablet
+        Footer:
+            width 130px 
+            height 55px
+    @on desktop
+        Footer:
+            width 992px 
+            height 590px
+    @on mobile
+        Know-More:
+            width 130px 
+            height 55px
+    @on tablet
+        Know-More:
+            width 130px 
+            height 55px
+    @on desktop
+        Know-More:
+            width 992px 
+            height 590px

@@ -1,0 +1,200 @@
+@objects
+    logo                          div[class='header-logo']
+    Search-Box                    input[name='q']
+    Navbar                        ul[id='arw_nav']
+    Banner                        div[id='rev_slider_1_wrapper']
+    Top-Picks                     div[id='product-list-1425926192']
+    One-Stop                      div[class='row arw-pad']
+    Show-Room                     div[class='visit-showroom-iframe']
+    Show-Room-Button              a[class='visit-showroom-btn']
+    Insta-Posts                   div[class='widget widget-static-block ss']
+    Insta-View-Button             a[class='instagram-link']
+    Our-Brands                    div[class='block-collections']
+    Our-Brand-1                   a[href='https://www.soulandtables.ae/our-brands']
+    Ask-Question                  h3[id='qs1']
+    Ask-Question-Plus             span[class='fa fa-plus']
+    Footer                        footer[class='footer-container']
+    Footer-FindItFast             div[class='menu-ft']
+    whatsapp-Icon                 a[href='https://api.whatsapp.com/send?phone=971508513008']
+
+= Home Page =
+    @on mobile
+        logo:
+            width 130px 
+            height 55px
+    @on tablet
+        logo:
+            width 130px 
+            height 55px
+    @on desktop
+        logo:
+            width 130px 
+            height 55px
+    @on mobile
+        Navbar:
+            width 130px 
+            height 55px
+    @on tablet
+        Navbar:
+            width 130px 
+            height 55px
+    @on desktop
+        Navbar:
+            width 130px 
+            height 55px
+    @on mobile
+        Banner:
+            width 130px 
+            height 55px
+    @on tablet
+        Banner:
+            width 130px 
+            height 55px
+    @on desktop
+        Banner:
+            width 130px 
+            height 55px
+    @on mobile
+        Top-Picks:
+            width 130px 
+            height 55px
+    @on tablet
+        Top-Picks:
+            width 130px 
+            height 55px
+    @on desktop
+        Top-Picks:
+            width 130px 
+            height 55px
+    @on mobile
+        One-Stop:
+            width 130px 
+            height 55px
+    @on tablet
+        One-Stop:
+            width 130px 
+            height 55px
+    @on desktop
+        One-Stop:
+            width 130px 
+            height 55px
+    @on mobile
+        Show-Room:
+            width 130px 
+            height 55px
+    @on tablet
+        Show-Room:
+            width 130px 
+            height 55px
+    @on desktop
+        Show-Room:
+            width 130px 
+            height 55px
+    @on mobile
+        Show-Room-Button:
+            width 130px 
+            height 55px
+    @on tablet
+        Show-Room-Button:
+            width 130px 
+            height 55px
+    @on desktop
+        Show-Room-Button:
+            width 130px 
+            height 55px
+    @on mobile
+        Insta-Posts:
+            width 130px 
+            height 55px
+    @on tablet
+        Insta-Posts:
+            width 130px 
+            height 55px
+    @on desktop
+        Insta-Posts:
+            width 130px 
+            height 55px
+    @on mobile
+        Insta-View-Button:
+            width 130px 
+            height 55px
+    @on tablet
+        Insta-View-Button:
+            width 130px 
+            height 55px
+    @on desktop
+        Insta-View-Button:
+            width 930px 
+            height 43px
+    @on mobile
+        Our-Brands:
+            width 130px 
+            height 55px
+    @on tablet
+        Our-Brands:
+            width 130px 
+            height 55px
+    @on desktop
+        Our-Brands:
+            width 930px 
+            height 43px
+    @on mobile
+        Our-Brand-1:
+            width 130px 
+            height 55px
+    @on tablet
+        Our-Brand-1:
+            width 130px 
+            height 55px
+    @on desktop
+        Our-Brand-1:
+            width 930px 
+            height 43px
+    @on mobile
+        Ask-Question:
+            width 130px 
+            height 55px
+    @on tablet
+        Ask-Question:
+            width 130px 
+            height 55px
+    @on desktop
+        Ask-Question:
+            width 930px 
+            height 43px
+    @on mobile
+        Ask-Question-Plus:
+            width 130px 
+            height 55px
+    @on tablet
+        Ask-Question-Plus:
+            width 130px 
+            height 55px
+    @on desktop
+        Ask-Question-Plus:
+            width 930px 
+            height 43px
+    @on mobile
+        Footer:
+            width 130px 
+            height 55px
+    @on tablet
+        Footer:
+            width 130px 
+            height 55px
+    @on desktop
+        Footer:
+            width 992px 
+            height 590px
+    @on mobile
+        whatsapp-Icon:
+            width 130px 
+            height 55px
+    @on tablet
+        whatsapp-Icon:
+            width 130px 
+            height 55px
+    @on desktop
+        whatsapp-Icon:
+            width 992px 
+            height 590px

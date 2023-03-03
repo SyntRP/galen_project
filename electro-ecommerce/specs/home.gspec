@@ -1,0 +1,315 @@
+@objects
+    logo                          div[class='content-logo']
+    Search-Box                    form[id='search_mini_form']
+    Navbar                        div[class='header-bottom']
+    Banner                        div[class='slide-home cms-static-main-slide alo-magicslider']
+    Service                       div[class='cms-static-policy main-policy policy wow fadeInUp']
+    Special-Offers                div[class='alo-content-68696089 magicproduct +autoplay']
+    Products-Tab                  ul[data-ajax='{"limit":"6","speed":"600","timer":"0","cart":"1","compare":"1","wishlist":"1","review":"0"}']
+#   Products-List                 div[class='box-product-content clearfix']
+    Products-Item1                li[class='item product product-item']
+    Best-Sellers-Category         div[class='cms-static-bestsellers-category bestsellers-category section-category-slide wow fadeInUp']
+    Best-Sellers-Title            h3[class='type-product-title']
+    Best-Sellers-Item             div[data-container='product-grid']
+    Featured-Products             div[class='block-title-tabs clearfix']
+    Featured-Products-Tab         ul[class='magictabs toggle-content ']
+    Featured-Products-Item        div[data-container='product-grid']
+    Bottom-Content-banner         div[data-container='cms-static-content-bottom-category main-category wow fadeInUp']
+    Product-Brands                div[class='cms-static-brands']
+    Custom-Products               div[class='cms-static-mix-custom-product']
+    Custom-Products-Coloumn       div[class='mix-product-box magic-featured-product']
+    Custom-Products-Item          div[class='plr-onmobile']
+    Newsletter-Bar                div[id='cms-static-page-bottom']
+    Newsletter-Email-Input        div[class='visible']
+    Footer                        footer[class='page-footer']
+    Footer-FindItFast             div[class='menu-ft']
+
+= Home Page =
+    @on mobile
+        logo:
+            width 130px 
+            height 55px
+    @on tablet
+        logo:
+            width 130px 
+            height 55px
+    @on desktop
+        logo:
+            width 130px 
+            height 55px
+    @on mobile
+        Navbar:
+            width 130px 
+            height 55px
+    @on tablet
+        Navbar:
+            width 130px 
+            height 55px
+    @on desktop
+        Navbar:
+            width 130px 
+            height 55px
+    @on mobile
+        Banner:
+            width 130px 
+            height 55px
+    @on tablet
+        Banner:
+            width 130px 
+            height 55px
+    @on desktop
+        Banner:
+            width 130px 
+            height 55px
+    @on mobile
+        Service:
+            width 130px 
+            height 55px
+    @on tablet
+        Service:
+            width 130px 
+            height 55px
+    @on desktop
+        Service:
+            width 130px 
+            height 55px
+    @on mobile
+        Special-Offers:
+            width 130px 
+            height 55px
+    @on tablet
+        Special-Offers:
+            width 130px 
+            height 55px
+    @on desktop
+        Special-Offers:
+            width 130px 
+            height 55px
+    @on mobile
+        Products-Tab:
+            width 130px 
+            height 55px
+    @on tablet
+        Products-Tab:
+            width 130px 
+            height 55px
+    @on desktop
+        Products-Tab:
+            width 130px 
+            height 55px
+#    @on mobile
+#       Products-List:
+#            width 130px 
+#            height 55px
+#    @on tablet
+#        Products-List:
+#            width 130px 
+#            height 55px
+#    @on desktop
+#        Products-List:
+#            width 130px 
+#            height 55px
+    @on mobile
+        Products-Item1:
+            width 130px 
+            height 55px
+    @on tablet
+        Products-Item1:
+            width 130px 
+            height 55px
+    @on desktop
+        Products-Item1:
+            width 130px 
+            height 55px
+    @on mobile
+        Products-Item2:
+            width 130px 
+            height 55px
+    @on tablet
+        Products-Item2:
+            width 130px 
+            height 55px
+    @on desktop
+        Products-Item2:
+            width 130px 
+            height 55px
+    @on mobile
+        Best-Sellers-Category:
+            width 130px 
+            height 55px
+    @on tablet
+        Best-Sellers-Category:
+            width 130px 
+            height 55px
+    @on desktop
+        Best-Sellers-Category:
+            width 130px 
+            height 55px
+    @on mobile
+        Best-Sellers-Title:
+            width 130px 
+            height 55px
+    @on tablet
+        Best-Sellers-Title:
+            width 130px 
+            height 55px
+    @on desktop
+        Best-Sellers-Title:
+            width 930px 
+            height 43px
+    @on mobile
+        Best-Sellers-Item:
+            width 130px 
+            height 55px
+    @on tablet
+        Best-Sellers-Item:
+            width 130px 
+            height 55px
+    @on desktop
+        Best-Sellers-Item:
+            width 930px 
+            height 43px
+    @on mobile
+        Featured-Products:
+            width 130px 
+            height 55px
+    @on tablet
+        Featured-Products:
+            width 130px 
+            height 55px
+    @on desktop
+        Featured-Products:
+            width 930px 
+            height 43px
+    @on mobile
+        Featured-Products-Tab:
+            width 130px 
+            height 55px
+    @on tablet
+        Featured-Products-Tab:
+            width 130px 
+            height 55px
+    @on desktop
+        Featured-Products-Tab:
+            width 930px 
+            height 43px
+    @on mobile
+        Featured-Products-Item:
+            width 130px 
+            height 55px
+    @on tablet
+        Featured-Products-Item:
+            width 130px 
+            height 55px
+    @on desktop
+        Featured-Products-Item:
+            width 930px 
+            height 43px
+    @on mobile
+        Bottom-Content-banner:
+            width 130px 
+            height 55px
+    @on tablet
+        Bottom-Content-banner:
+            width 130px 
+            height 55px
+    @on desktop
+        Bottom-Content-banner:
+            width 930px 
+            height 43px
+    @on mobile
+        Product-Brands:
+            width 130px 
+            height 55px
+    @on tablet
+        Product-Brands:
+            width 130px 
+            height 55px
+    @on desktop
+        Product-Brands:
+            width 930px 
+            height 43px
+    @on mobile
+        Custom-Products:
+            width 130px 
+            height 55px
+    @on tablet
+        Custom-Products:
+            width 130px 
+            height 55px
+    @on desktop
+        Custom-Products:
+            width 930px 
+            height 43px
+    @on mobile
+        Custom-Products-Coloumn:
+            width 130px 
+            height 55px
+    @on tablet
+        Custom-Products-Coloumn:
+            width 130px 
+            height 55px
+    @on desktop
+        Custom-Products-Coloumn:
+            width 930px 
+            height 43px
+    @on mobile
+        Custom-Products-Item:
+            width 130px 
+            height 55px
+    @on tablet
+        Custom-Products-Item:
+            width 130px 
+            height 55px
+    @on desktop
+        Custom-Products-Item:
+            width 930px 
+            height 43px
+    @on mobile
+        Newsletter-Bar:
+            width 130px 
+            height 55px
+    @on tablet
+        Newsletter-Bar:
+            width 130px 
+            height 55px
+    @on desktop
+        Newsletter-Bar:
+            width 930px 
+            height 43px
+    @on mobile
+        Newsletter-Email-Input:
+            width 130px 
+            height 55px
+    @on tablet
+        Newsletter-Email-Input:
+            width 130px 
+            height 55px
+    @on desktop
+        Newsletter-Email-Input:
+            width 387px 
+            height 40px
+    @on mobile
+        Footer:
+            width 130px 
+            height 55px
+    @on tablet
+        Footer:
+            width 130px 
+            height 55px
+    @on desktop
+        Footer:
+            width 992px 
+            height 590px
+    @on mobile
+        Footer-FindItFast:
+            width 130px 
+            height 55px
+    @on tablet
+        Footer-FindItFast:
+            width 130px 
+            height 55px
+    @on desktop
+        Footer-FindItFast:
+            width 992px 
+            height 590px
