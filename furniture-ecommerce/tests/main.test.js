@@ -6,7 +6,6 @@ load("home/ViewItem.js");
 load("home/Quantity.js");
 load("home/CheckOut.js");
 load("home/Payment.js");
-// load("Address.js");
 
 
 // forAll(
@@ -17,24 +16,12 @@ load("home/Payment.js");
 //   ],
 //   (deviceName, size) => {
 //     test("Home page on " + deviceName + " device", function () {
-//       const driver = createDriver("http://DXL.com ","1024x768");
-//       const loginPage=new LoginPage(driver).waitForIt( {time: "30s"});
-//       loginPage.loginAs("t-shirt");
+//       const driver = createDriver("https://www.soulandtables.ae/",size);
 //       //  checkLayout(driver, "specs/home.gspec", [deviceName]);
-//       // const logoutpage=new LogoutPage(driver);
-//       // logoutpage.logoutAs();
-//       // driver.quit();
 //     });
 //   }
 // );
-// const driver=createDriver("http://testphp.vulnweb.com/login.php","1024x768");
-// const loginPage=new LoginPage(driver).waitForIt();
-// loginPage.loginAs("test","test");
-// test("Home page", function() {
-//    driver = createDriver("https://www.radiustheme.com/demo/wordpress/themes/homlisti/home-5",
-//                             "1024x768");
-//   checkLayout(driver, "specs/home.gspec", ["all", "desktop"]);
-// });
+
 test("Home page on " + "desktop" + " device", function () {
   const driver = createDriver("https://www.soulandtables.ae/", "1024x768");
   Thread.sleep(5000);
@@ -61,8 +48,6 @@ test("Home page on " + "desktop" + " device", function () {
   // const PaymentPage = new Payment(driver).waitForIt();
   // PaymentPage.PaymentAs();
   // Thread.sleep(3000);
-  // const AddressPage = new Address(driver).waitForIt();
-  // AddressPage.AddressAs();
   driver.quit()
 });
 
